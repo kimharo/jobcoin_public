@@ -1,0 +1,11 @@
+{
+    "name": "sword",
+    "description": "sword",
+    "image": "ipfs://QmSyfZrzUcZuJp3SNswHXqzuFTMkDS8woWbCBDpV3ycdFB",
+    "attributes": [
+        {
+            "trait_type": "strength",
+            "value": 15
+        }
+    ]
+}

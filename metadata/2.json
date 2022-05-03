@@ -1,0 +1,15 @@
+{
+    "name": "shoes",
+    "description": "shoes",
+    "image": "ipfs://QmSyfZrzUcZuJp3SNswHXqzuFTMkDS8woWbCBDpV3ycdFB",
+    "attributes": [
+        {
+            "trait_type": "speed",
+            "value": 20
+        },
+        {
+            "trait_type": "distance",
+            "value": 0.8
+        }
+    ]
+}
