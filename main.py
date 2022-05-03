@@ -30,7 +30,7 @@ def erc20_token(w3, address="0x7f45F13FAED6803b9a4CaB5dBF8E54EDDB73a752"):
     return jtt
 
 if __name__ == '__main__':
-    private_key = os.getenv('MASTER_PRIVATE_KEY', '0xf33beedfd80d045b3eb87bd513c07a7d1b8cc8c4bcfe27ad1054df2e75ed7876')
+    private_key = os.getenv('MASTER_PRIVATE_KEY', '')
     from web3 import Web3, EthereumTesterProvider, WebsocketProvider
     from web3.middleware import geth_poa_middleware
     provider_url = 'wss://rinkeby.infura.io/ws/v3/deecb0e96a594af4b541f39e86757cf0'
